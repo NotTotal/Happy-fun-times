@@ -87,7 +87,7 @@ Updating is like installing. You only have to make sure that you select the same
 
 
 
-## Vorkiinator Black
+## Vokriinator Black
 
 HFT uses Vorkiinator Black which is a splice of Vokrii, Ordinator, Path of Sorcery, Adamant and SPERG. It has an absolutely insanely number of perks. Using [this perk calculator](https://thehajo.github.io/VokriinatorBlack/) will help in planning a build. If you don't feel like planning it should be somewhat difficult to make a truly useless build considering the general power level of perks available.
 
@@ -175,7 +175,7 @@ My Setup:
 - 32GB DDR4
 - Game and MO2 running on a m2 drive
 
-I get a consistent 60+ fps in game at 1440p. If you get bad frames I suggset not wearing as SMP items. NAT ENB has a preformance setting on its nexus page, try applying that as well, trying to disable the ENB will render the game rather unplayable without also changing the weather. I don't provide support for making your fps better so please do not ask me. N
+I get a consistent 60+ fps in game at 1440p. NAT ENB has a preformance setting on its nexus page, try applying that as well, trying to disable the ENB will render the game rather unplayable without also changing the weather. I don't provide support for making your fps better so please do not ask me. N
 
 ## Removing the Modlist
 
@@ -183,7 +183,7 @@ You can just remove the MO2 folder and be done with it. SKSE and ENB files will 
 
 ## Credits and Thanks
 
-Thank you to Phoenix and crew for The Phoenix Flavor which served as a visual base of this list. HFT is forked from Phoenix Flavor v4, if you want an even better looking list I suggest you try Phoenix Flavor v5, Phoenix put some real effort into making it look great and run well. 
+Thank you to Phoenix and crew for The Phoenix Flavor v4 which served as a visual base of this list. HFT is forked from Phoenix Flavor v4, if you want an even better looking list I suggest you try Phoenix Flavor v5, Phoenix put some real effort into making it look great and run well. 
 
 Special Thanks
 - Erri for the base of the readme that was forked into elder souls from which this readme is forked
