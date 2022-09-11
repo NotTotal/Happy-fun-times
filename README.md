@@ -1,5 +1,4 @@
 # Happy-fun-times
-# Total-Skyrim-Overhaul
 
 - [Introduction](#Introduction)
 - [Installation](#installation)
@@ -24,15 +23,14 @@
 - [Changelog](#changelog)
 
 # Introduction
-Total Skyrim Overhaul is a requiem based modlist, this means it is difficult. If you are looking for a gameplay experience that does not require careful planning I suggest playing Keizaal, The Phoenix Flavor, or Living Skyrim instead. If you have never played requiem before I strongly reccomend you start with Serenity first.
 
-I will not provide support on how to add or change any mods beyond what is already provided. Do not ask me for help if you changed things. If you do not have experience modding requiem on SSE and patching with xedit I suggest you do not even think of changing anything.
+Happy Fun Times is a nsfw modlist built around my attempts to create consistent random and dynamic encounters. HFT's nsfw content is based around the [toys family of mods](https://virginmarie1.wixsite.com/toys) which generally favor moderately intrusive mechanics and consensual encounters. HFT features drastically changed enemies, perks and leveling, legacy of the dragonborn, and "modern" combat. 
 
-If a question is sufficiently answered in this readme I will not respond to support requests relating to it. Please read the readme, I wrote it for a reason. If your question is not in the readme I will answer it to the degree possible.
+THE PAID ANNIVERSARY EDITION UPGRADE IS REQUIRED. THIS LIST WILL NOT INSTALL WITHOUT IT.
 
-Support is only available in the [Requiem Wabbajack Discord](https://discord.gg/WCbdB9TYbj)
+Support is only available in the [Jolly Co-Operators](https://discord.gg/jolly-coop)
 
-NSFW Warning: This list contains nude models for female and males.
+
 ## Installation
 
 #### Installing Microsoft Visual C++ Redistributable Package
@@ -40,18 +38,6 @@ NSFW Warning: This list contains nude models for female and males.
 I doubt you need to do this since you likely already have this installed. The package is required for MO2 and you can download it from [Microsoft](https://support.microsoft.com/en-us/help/2977003/the-latest-supported-visual-c-downloads). Download the x64 version under "Visual Studio 2015, 2017 and 2019". [Direct link](https://aka.ms/vs/16/release/vc_redist.x64.exe) if you can't find it.
 
 #### Steam Config
-
-##### Disable the Steam Overlay
-
-The Steam Overlay can cause issues with ENB and is recommended to be turned off.
-
-Open the Properties window (right click the game in your Library->Properties), navigate to the _General_ tab and un-tick the _Enable the Steam Overlay while in-game_ checkbox.
-
-#### Change Steams Update Behavior
-
-SSE is still being updated by Bethesda (they only add Creation Club content). Whenever the game updates, the entire modding community goes silent for the next one or two weeks because some mods need to be updated to the latest game runtime version.
-
-To ensure that Steam does not automatically updates the game for you, head over to the Properties window, navigate to the _Updates_ tab and change _Automatic updates_ to _Only update this game when I launch it_. You should also disable the Steam Cloud while you're at it.
 
 #### Set the Game language to English
 
@@ -67,11 +53,11 @@ Grab the latest release of Wabbajack from [here](https://github.com/wabbajack-to
 
 #### Downloading and Installing
 
-The download and installation process can take a very long time depending on your system specs. Wabbajack will calculate the amount of threads it will use at the start of the installation. To have the highest amount of threads and thus the fastest speed, it is advised to have the working folder on an SSD. You can have the TSO and downloads folder be on separate drives without issue, aside from being limited by the slowest drive during wabbajack installation.
+The download and installation process can take a very long time depending on your system specs. Wabbajack will calculate the amount of threads it will use at the start of the installation. To have the highest amount of threads and thus the fastest speed, it is advised to have the working folder on an SSD. You can have the HFT and downloads folder be on separate drives without issue, aside from being limited by the slowest drive during wabbajack installation.
 
 1. Open Wabbajack
 2. Load the Modlist from Disk
-3. Set TSO to install to X:\Total Skyrim Overhaul and download to X:\Total Skyrim Overhaul\Downloads. Your downloads folder can be on a separate drive to save space but wabbajack's install speed will be limited to your slowest drive. 
+3. Set TSO to install to X:\Happy Fun Times and download to X:\Happy Fun Times\Downloads. Your downloads folder can be on a separate drive to save space but wabbajack's install speed will be limited to your slowest drive. 
 4. Click the Go/Begin button
 5. Wait for Wabbajack to finish
 
@@ -99,33 +85,31 @@ Updating is like installing. You only have to make sure that you select the same
 
 # Gameplay Guide
 
-GAMEPLAY QUESTIONS WILL NOT BE ANSWERED IN #TSO-SUPPORT, GO TO #GAMEPLAY-SPOILERS ON THE [TSO DEV SERVER](https://discord.gg/ueJH6Jz)
 
-## 3Tweaks
+
+## Vorkiinator Black
 
 TSO now features 3tweaks, a comprehensive overhaul of requiem designed to eliminate many of the meta gaming strategies people have developed over time and force you to actually play the game to progress. **The only way to gain skill levels is by potions of insight which you earn from end chests of locations or by fighting powerful enemies**. Additionally, the economy has been drastically rebalanced so you can no longer abuse alchemy or sell junk gear to vendors to become rich. 3Tweaks has many other significant changes to the ways that requiem works, which you will have to find out by playing.
 
 ## Perks
 
-Requiem is an extremely perk focused mod. Every skill requires the initial perk to be usable. For example, you will not be able to pick any locks without the first perk in lockpicking, if you don’t have any perks in one handed you will struggle to even swing a sword, and . Requiem grants you three perk points at level one. Choose wisely.
-
-As standard in requiem each smithing tier will require the respective book before you can spend a perk point. These books are scattered throughout the world in places where they logically belong. You will have to earn them.
 
 ## Saving
  
-TSO features sleep to save. There are only two ways to save, either when you sleep at a bed, or once every 15 minutes with the item in your inventory called "Elder Scroll (Break)." No, there is no way to turn this off. 
+
 
 ## Equipment Durability
 
-TSO features Equipment Durability. Items will degrade over time as you use them. This will be displayed with the name of the item being modified to show its degredation status. Items can be repaired by tempering
 
 ## Character Customization
 
-TSO has two MCMs related to character customization that are easy to miss. Racemenu animated overlays will allow you to determine when overlays appear during combat. Skyrim outfit system allows you to set visual only outfits for various situations and locations. It's effectively transmog in skyrim, finally.
+HFT has two MCMs related to character customization that are easy to miss. Racemenu animated overlays will allow you to determine when overlays appear during combat. Skyrim outfit system allows you to set visual only outfits for various situations and locations. It's effectively transmog in skyrim, finally.
+
+Skyrim outfit system has a setting to require an item equipped in the displayed slot if you wish to ensure stripping compatability from Toys and Love.
 
 ## In-Game MCM Options
 
-All MCM options have been preconfigured
+All MCM options have been preconfigured.
 
 ## FAQ
 
@@ -142,9 +126,6 @@ Why is there a lantern always attached to my character?  Why am I always casting
 How do I update to a later version?
 - All you have to do is rerun wabbajack with the new version of the installer. If you have the downloads wabbajack will hash everything, download any new mods, and make the necessary changes in your install folder. You do not need to recopy the game folder files unless they have changed.
 
-My character tposing/has animation issues when moving
-- Cap your fps at or below 75.
-
 My character's hair/eyebrows/beard has weird texture issues
 - You need to use High Poly Head and non-vanilla hair/eyebrows/beard (HPH has duplicates made for HPH)
 
@@ -155,7 +136,7 @@ Loverslab downloads keep failing!
 - First make sure you verified your LL account and then restart WJ. If that doesn't work log in and out of LL in the WJ UI. If that doesn't work, grab the failing links from the WJ log, download the files manually, and put them in your downloads folder.
 
 How do I set skyrim to borderless windowed mode?
-- Change the settings in the SSE Display Tweaks INI in MO2
+- It should already be in borderless windowed mode. But if for some reason it isn't change the settings in the SSE Display Tweaks INI in MO2.
 
 I have an ultrawide monitor (21:9), how do I fix the aspect ratios?
 - Install the following mods: Complete Widescreen Fix, Extended UI - Widescreen fix, Wider MCM menu for Skyui Widescreen Fix, SkyUI SE - Flashing Savegames fix - Widescreen Fix, Better MessageBox Controls Widescreen fix, Better Dialogue Control Widescreenfix
@@ -167,10 +148,10 @@ Is [insert mod name here] part of the list?
 - Check the modlist manifest. If there is something you want that is not in the list, I highly suggest you do not add it unless you know what you’re doing.
 
 Will you add x mod to the list?
-- I only take suggestions I did not ask for from people who send me a save of them legitimately killing alduin.
+- It's extremely unlikely unless its already on my radar.
 
 I think I found a bug! Here are some things that are not bugs:
-
+- None yet, thankfully.
 
 ## Performance
 
@@ -188,6 +169,8 @@ I get a consistent 60+ fps in game at 1440p. If you get bad frames I suggset not
 You can just remove the MO2 folder and be done with it. SKSE and ENB files will still be in your game folder so I recommend using [ENB and ReShade Manager](https://www.nexusmods.com/skyrimspecialedition/mods/4143) if you want to remove the ENB.
 
 ## Credits and Thanks
+
+Thank you to Phoenix and crew for The Phoenix Flavor which served as a visual base of this list. HFT is forked from Phoenix Flavor v4, if you want an even better looking list I suggest you try Phoenix Flavor v5, Phoenix put some real effort into making it look great and run well. 
 
 Special Thanks
 - Erri for the base of the readme that was forked into elder souls from which this readme is forked
