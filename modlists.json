@@ -8,6 +8,7 @@
       "github/NotTotal"
     ],
     "game": "skyrimspecialedition",
+    "official": false,
     "tags": [
       "Creation Club",
       "Anniversary Edition",
@@ -16,25 +17,27 @@
       "NSFW"
     ],
     "nsfw": true,
+    "utility_list": false,
     "image_contains_title": false,
     "force_down": false,
     "links": {
       "$type": "Links, Wabbajack.Lib",
       "image": "https://raw.githubusercontent.com/NotTotal/Happy-fun-times/main/SkyrimSE_t6C0mxuRWU.webp",
       "readme": "https://raw.githubusercontent.com/NotTotal/Happy-fun-times/main/README.md",
-      "download": "https://authored-files.wabbajack.org/Happy%20Fun%20Times.wabbajack_47fbbd0a-3119-4528-a094-29ff24a445f3",
+      "download": "https://authored-files.wabbajack.org/Happy Fun Times.wabbajack_67c96ebc-411c-47a6-b809-fd5095b9116d",
       "machineURL": "HFT",
-      "discordURL":  "https://discord.gg/jolly-coop"
+      "discordURL": "https://discord.gg/jolly-coop"
     },
     "download_metadata": {
-       "$type": "DownloadMetadata, Wabbajack.Lib",
-       "Hash": "U7xszOMrbtU=",
-       "Size": 279717060,
-       "NumberOfArchives": 1582,
-       "SizeOfArchives": 135654092875,
-       "NumberOfInstalledFiles": 203963,
-       "SizeOfInstalledFiles": 235353431350
+      "$type": "DownloadMetadata, Wabbajack.Lib",
+      "Hash": "UEqbFi4Rooo=",
+      "Size": 279726176,
+      "NumberOfArchives": 1581,
+      "SizeOfArchives": 135654080625,
+      "NumberOfInstalledFiles": 203948,
+      "SizeOfInstalledFiles": 235353308223
     },
-    "version": "0.1.0"
+    "version": "0.1.1",
+    "RepositoryName": ""
   }
 ]
