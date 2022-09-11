@@ -164,7 +164,7 @@ Are you going to add a bunch of armor mods like TSO?
 - Working on it slowly.
 
 I think I found a bug! Here are some things that are not bugs:
-- None yet, thankfully.
+- The game forces me into third person!
 
 ## Performance
 
