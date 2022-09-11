@@ -89,17 +89,27 @@ Updating is like installing. You only have to make sure that you select the same
 
 ## Vorkiinator Black
 
-TSO now features 3tweaks, a comprehensive overhaul of requiem designed to eliminate many of the meta gaming strategies people have developed over time and force you to actually play the game to progress. **The only way to gain skill levels is by potions of insight which you earn from end chests of locations or by fighting powerful enemies**. Additionally, the economy has been drastically rebalanced so you can no longer abuse alchemy or sell junk gear to vendors to become rich. 3Tweaks has many other significant changes to the ways that requiem works, which you will have to find out by playing.
+HFT uses Vorkiinator Black which is a splice of Vokrii, Ordinator, Path of Sorcery, Adamant and SPERG. It has an absolutely insanely number of perks. Using [this perk calculator](https://thehajo.github.io/VokriinatorBlack/) will help in planning a build. If you don't feel like planning it should be somewhat difficult to make a truly useless build considering the general power level of perks available.
 
-## Perks
+## Static Skill Leveling
 
+HFT uses [Static Skill Leveling](https://www.nexusmods.com/skyrimspecialedition/mods/30410) to change how skill leveling works. Gone are the days of crafting hundreds of iron daggers to level up smithing, now you get to pick exactly what skills you want to level up on the level up screen. Make sure to level skills BEFORE picking your attribute as picking an attribute closes the skill selection screen until your next level up. If you have excess unspent skill points SSL will save them for the next time you level up, but you can only level up each skill by 5 per level up. 
 
-## Saving
+The rates of experience and skill points are still being fined tuned. 
+
+## Toys and Addons
  
+[Toys](https://virginmarie1.wixsite.com/toys) is a pretty well put together suite of mods that plays quite differently from most Sexlab based mods. I suggest reading through the Toys site to understand how each of its main mods work, or reading the ingame guidance that comes up as you play. Remember that the rates can be tweaked in the MCM so you can play a character that struggles to ever wear anything that isn't a toy or almost entirely ignore the NSFW mechanics depending on what settings you choose. Your MCM settings will be auto-saved for new characters until you update the modlist or re-run wabbajack.
 
+## Enemy Mods
 
-## Equipment Durability
+HFT has a slew of enemy mods, including a cleaned version of Rogue-like Ecnounters, Heritage, Heritage 2, OBIS, Skyrim Immersive Creatures, SRCEO, and Enemy Variations Wenches. No encounter will ever quite feel like vanilla and there will be sudden random difficulty spikes. If you find yourself in over your head running away is always a valid choice.
 
+Dragons have been changed as well, good luck.
+
+## Modern Combat
+
+HFT uses MCO ADXP as its "modern" combat mod along with Precision, SCAR, TK Dodge RE, and Valhalla Combat. Melee combat is really strong once you figure out the system. 
 
 ## Character Customization
 
@@ -149,6 +159,9 @@ Is [insert mod name here] part of the list?
 
 Will you add x mod to the list?
 - It's extremely unlikely unless its already on my radar.
+
+Are you going to add a bunch of armor mods like TSO?
+- Working on it slowly.
 
 I think I found a bug! Here are some things that are not bugs:
 - None yet, thankfully.
