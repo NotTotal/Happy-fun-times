@@ -1,0 +1,40 @@
+[
+  {
+    "$type": "ModListMetadata, Wabbajack.Lib",
+    "title": "Happy Fun Times",
+    "description": "Toys. Vokriinator Black. AE. LOTD. New Enemies. More Dungeons. Fun Times.",
+    "author": "Total",
+    "maintainers": [
+      "github/NotTotal"
+    ],
+    "game": "skyrimspecialedition",
+    "tags": [
+      "Creation Club",
+      "Anniversary Edition",
+      "Legacy of the Dragonborn",
+      "LotD",
+      "NSFW"
+    ],
+    "nsfw": true,
+    "image_contains_title": false,
+    "force_down": false,
+    "links": {
+      "$type": "Links, Wabbajack.Lib",
+      "image": "https://raw.githubusercontent.com/NotTotal/Happy-fun-times/main/SkyrimSE_t6C0mxuRWU.webp",
+      "readme": "https://raw.githubusercontent.com/NotTotal/Happy-fun-times/main/README.md",
+      "download": "https://authored-files.wabbajack.org/Happy%20Fun%20Times.wabbajack_47fbbd0a-3119-4528-a094-29ff24a445f3",
+      "machineURL": "HFT",
+      "discordURL":  "https://discord.gg/jolly-coop"
+    },
+    "download_metadata": {
+       "$type": "DownloadMetadata, Wabbajack.Lib",
+       "Hash": "U7xszOMrbtU=",
+       "Size": 279717060,
+       "NumberOfArchives": 1582,
+       "SizeOfArchives": 135654092875,
+       "NumberOfInstalledFiles": 203963,
+       "SizeOfInstalledFiles": 235353431350
+    },
+    "version": "0.1.0"
+  }
+]
