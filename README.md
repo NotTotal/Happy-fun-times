@@ -26,6 +26,8 @@
 
 Happy Fun Times is a nsfw modlist built around my attempts to create consistent random and dynamic encounters. HFT's nsfw content is based around the [toys family of mods](https://virginmarie1.wixsite.com/toys) which generally favor moderately intrusive mechanics and consensual encounters. HFT features drastically changed enemies, perks and leveling, legacy of the dragonborn, and "modern" combat. 
 
+This modlist requires a strong CPU, if you have an older machine your computer will not be able to keep up with the script load.
+
 THE PAID ANNIVERSARY EDITION UPGRADE IS REQUIRED. THIS LIST WILL NOT INSTALL WITHOUT IT.
 
 Support is only available in the [Jolly Co-Operators](https://discord.gg/jolly-coop)
@@ -101,6 +103,8 @@ The rates of experience and skill points are still being fined tuned.
  
 [Toys](https://virginmarie1.wixsite.com/toys) is a pretty well put together suite of mods that plays quite differently from most Sexlab based mods. I suggest reading through the Toys site to understand how each of its main mods work, or reading the ingame guidance that comes up as you play. Remember that the rates can be tweaked in the MCM so you can play a character that struggles to ever wear anything that isn't a toy or almost entirely ignore the NSFW mechanics depending on what settings you choose. Your MCM settings will be auto-saved for new characters until you update the modlist or re-run wabbajack.
 
+While Toys is playable with a male character it is designed for a female player character. 
+
 ## Enemy Mods
 
 HFT has a slew of enemy mods, including a cleaned version of Rogue-like Ecnounters, Heritage, Heritage 2, OBIS, Skyrim Immersive Creatures, SRCEO, and Enemy Variations Wenches. No encounter will ever quite feel like vanilla and there will be sudden random difficulty spikes. If you find yourself in over your head running away is always a valid choice.
@@ -109,7 +113,7 @@ Dragons have been changed as well, good luck.
 
 ## Modern Combat
 
-HFT uses MCO ADXP as its "modern" combat mod along with Precision, SCAR, TK Dodge RE, and Valhalla Combat. Melee combat is really strong once you figure out the system. 
+HFT uses MCO ADXP as its "modern" combat mod along with Precision, SCAR, TK Dodge RE, and Valhalla Combat. As none of these mods are designed to work in first person, you will be forced to enter third person in combat. There is no way around this, and it applies to non-melee combat as well. Press F to lock onto targets in third person.
 
 ## Character Customization
 
