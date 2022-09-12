@@ -24,20 +24,20 @@
       "$type": "Links, Wabbajack.Lib",
       "image": "https://raw.githubusercontent.com/NotTotal/Happy-fun-times/main/SkyrimSE_t6C0mxuRWU.webp",
       "readme": "https://raw.githubusercontent.com/NotTotal/Happy-fun-times/main/README.md",
-      "download": "https://authored-files.wabbajack.org/Happy Fun Times.wabbajack_a7d44c22-9949-4e6a-bbec-faa6df85a37e",
+      "download": "https://authored-files.wabbajack.org/Happy Fun Times.wabbajack_fd8776bb-bdc2-4dfd-9dcd-7adebae0a1d2",
       "machineURL": "HFT",
       "discordURL": "https://discord.gg/jolly-coop"
     },
     "download_metadata": {
       "$type": "DownloadMetadata, Wabbajack.Lib",
-      "Hash": "EHbdi10fOl8=",
-      "Size": 279681455,
-      "NumberOfArchives": 1565,
-      "SizeOfArchives": 134500884008,
-      "NumberOfInstalledFiles": 204904,
-      "SizeOfInstalledFiles": 233845199954
+      "Hash": "+BdSROme3EI=",
+      "Size": 254176803,
+      "NumberOfArchives": 1558,
+      "SizeOfArchives": 134463119174,
+      "NumberOfInstalledFiles": 205409,
+      "SizeOfInstalledFiles": 234263052668
     },
-    "version": "0.2.0",
+    "version": "0.3.0",
     "RepositoryName": ""
   }
 ]
