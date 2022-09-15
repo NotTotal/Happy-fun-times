@@ -198,7 +198,7 @@ Mod Authors
 
 ## Contact
 
-While I'm always available on the [Requiem Wabbajack Discord](https://discord.gg/WCbdB9TYbj), I would advise checking the [Issues](https://github.com/NotTotal/Total-Skyrim-Overhaul/issues) (open **and** closed ones) on GitHub first if you have any problems. **DO NOT DM ME ON DISCORD. I WILL NOT PROVIDE SUPPORT FOR YOU IN DMS**.
+While I'm always available on [Jolly Co-Operators](https://discord.gg/jolly-coop) **DO NOT DM ME ON DISCORD. I WILL NOT PROVIDE SUPPORT FOR YOU IN DMS**.
 
 ## Contributing
 
