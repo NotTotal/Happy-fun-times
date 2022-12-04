@@ -1,6 +1,5 @@
 [
   {
-    "$type": "ModListMetadata, Wabbajack.Lib",
     "title": "Happy Fun Times",
     "description": "Toys. Vokriinator Black. AE. LOTD. New Enemies. More Dungeons. Fun Times.",
     "author": "Total",
@@ -21,23 +20,23 @@
     "image_contains_title": false,
     "force_down": true,
     "links": {
-      "$type": "Links, Wabbajack.Lib",
       "image": "https://raw.githubusercontent.com/NotTotal/Happy-fun-times/main/SkyrimSE_t6C0mxuRWU.webp",
       "readme": "https://raw.githubusercontent.com/NotTotal/Happy-fun-times/main/README.md",
-      "download": "https://authored-files.wabbajack.org/Happy Fun Times.wabbajack_81b56744-05e1-4b9f-b1ae-b2622fc1aadb",
+      "download": "https://authored-files.wabbajack.org/Happy Fun Times.wabbajack_5278892e-4052-46a5-8677-6ea052449c9b",
       "machineURL": "HFT",
       "discordURL": "https://discord.gg/jolly-coop"
     },
     "download_metadata": {
-      "$type": "DownloadMetadata, Wabbajack.Lib",
-      "Hash": "6GwQd4lEd9o=",
-      "Size": 280618781,
-      "NumberOfArchives": 1768,
-      "SizeOfArchives": 154686710222,
-      "NumberOfInstalledFiles": 224759,
-      "SizeOfInstalledFiles": 295176295791
+      "Hash": "9RzH5fpKxXU=",
+      "Size": 296904728,
+      "NumberOfArchives": 1920,
+      "SizeOfArchives": 177111416861,
+      "NumberOfInstalledFiles": 233385,
+      "SizeOfInstalledFiles": 334856254131
     },
-    "version": "0.6.2",
-    "RepositoryName": ""
+    "version": "0.7.0",
+    "dateCreated": "1970-01-01T00:00:00Z",
+    "dateUpdated": "2022-12-04T18:08:45.8886412Z",
+    "repositoryName": ""
   }
 ]
