@@ -93,9 +93,9 @@ Updating is like installing. You only have to make sure that you select the same
 
 HFT uses Vorkiinator Black which is a splice of Vokrii, Ordinator, Path of Sorcery, Adamant and SPERG. It has an absolutely insanely number of perks. Using [this perk calculator](https://thehajo.github.io/VokriinatorBlack/) will help in planning a build. If you don't feel like planning it should be somewhat difficult to make a truly useless build considering the general power level of perks available.
 
-## Static Skill Leveling
+## Insights
 
-HFT uses [Static Skill Leveling](https://www.nexusmods.com/skyrimspecialedition/mods/30410) to change how skill leveling works. Gone are the days of crafting hundreds of iron daggers to level up smithing, now you get to pick exactly what skills you want to level up on the level up screen. Make sure to level skills BEFORE picking your attribute as picking an attribute closes the skill selection screen until your next level up. If you have excess unspent skill points SSL will save them for the next time you level up, but you can only level up each skill by 5 per level up. 
+HFT now employs a new version of cra-- skill leveling based on insight potions. If you've played any 3tweaks modlist before you'll know how these work. In short, the only way to level skills is to get insight potions, which only come from killing enemies or looting chests. The number of insights you need to gain a skill point increases at 25/50/75 skill. Also, you can only level skills past 50 by acquiring greater insights, which you will have to figure out how you earn. 
 
 The rates of experience and skill points are still being fined tuned. 
 
