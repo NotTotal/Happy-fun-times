@@ -24,7 +24,7 @@
 
 # Introduction
 
-Happy Fun Times is a nsfw modlist built around my attempts to create consistent random and dynamic encounters. HFT's nsfw content is based around the [toys family of mods](https://virginmarie1.wixsite.com/toys) which generally favor moderately intrusive mechanics and consensual encounters. HFT features drastically changed enemies, perks and leveling, legacy of the dragonborn, and "modern" combat. 
+Happy Fun Times is a nsfw modlist built around my attempts to create consistent random and dynamic encounters. HFT's nsfw content is based around the [toys family of mods](https://virginmarie1.wixsite.com/toys) which generally favor moderately intrusive mechanics and consensual encounters. HFT features drastically changed enemies, perks and leveling, extreme enemy density, and legacy of the dragonborn.
 
 This modlist requires a strong CPU, if you have an older machine your computer will not be able to keep up with the script load.
 
@@ -101,7 +101,7 @@ The rates of experience and skill points are still being fined tuned.
 
 ## Toys and Addons
  
-[Toys](https://virginmarie1.wixsite.com/toys) is a pretty well put together suite of mods that plays quite differently from most Sexlab based mods. I suggest reading through the Toys site to understand how each of its main mods work, or reading the ingame guidance that comes up as you play. Remember that the rates can be tweaked in the MCM so you can play a character that struggles to ever wear anything that isn't a toy or almost entirely ignore the NSFW mechanics depending on what settings you choose. Your MCM settings will be auto-saved for new characters until you update the modlist or re-run wabbajack.
+[Toys](https://virginmarie1.wixsite.com/toys) is a pretty well put together suite of mods that plays quite differently from most Sexlab based mods. I suggest reading through the Toys site to understand how each of its main mods work, or reading the ingame guidance that comes up as you play. Remember that the rates can be tweaked in the MCM so you can play a character that struggles to ever wear anything that isn't a toy or almost entirely ignore the NSFW mechanics depending on what settings you choose. There is an MCM recorder to set toys to be almost entirely quest only. Your MCM settings will be auto-saved for new characters until you update the modlist or re-run wabbajack.
 
 While Toys is playable with a male character it is designed for a female player character. 
 
@@ -111,9 +111,9 @@ HFT has a slew of enemy mods, including a cleaned version of Rogue-like Ecnounte
 
 Dragons have been changed as well, good luck.
 
-## Modern Combat
+## Licenses
 
-HFT uses MCO ADXP as its "modern" combat mod along with Precision, SCAR, TK Dodge RE, and Valhalla Combat. As none of these mods are designed to work in first person, you will be forced to enter third person in combat. There is no way around this, and it applies to non-melee combat as well. Press F to lock onto targets in third person.
+The Jarls of skyrim have decided they're done with random adventurers running around armed with weapons in their holds. If you want to use items you will need to pay for a license. Guards will confiscate and fine you for non-compliance. There are two MCM recorders to adjust the licenses, British mode which increases the requirements and costs, and American mode which drastically reduces the costs and scopes of licenses. 
 
 ## Character Customization
 
@@ -146,6 +146,9 @@ My character's hair/eyebrows/beard has weird texture issues
 How do I use High Poly Head?
 - In racemenu search for “face part” and move the slider. HPH will work on any pre existing presets that you have, but you will need to use HPH's eyebrows.
 
+The enemy density is too high!
+- Gitgud. There's a ton of power available to you even at level 1 that can make the game rather easy if you spend a few minutes thinking things through. You can also lower the density with the provided MCM recorder, but also, gitgud.
+
 Loverslab downloads keep failing!
 - First make sure you verified your LL account and then restart WJ. If that doesn't work log in and out of LL in the WJ UI. If that doesn't work, grab the failing links from the WJ log, download the files manually, and put them in your downloads folder.
 
@@ -167,8 +170,8 @@ Will you add x mod to the list?
 Are you going to add a bunch of armor mods like TSO?
 - Working on it slowly.
 
-I think I found a bug! Here are some things that are not bugs:
-- The game forces me into third person!
+How do I add x mod to this list?
+- Look this is a massive list that touches almost every part of the vanilla game. If you have to ask if something is compatable instead of knowing how to answer that question yourself you really should not be trying to change things. 
 
 ## Performance
 
